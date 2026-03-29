@@ -48,6 +48,7 @@ t/parent_and_child_fds_match.t
 t/pty.t
 t/pump.t
 t/readonly.t
+t/false_string_input.t
 t/result.t
 t/result_sigchld.t
 t/run.t
